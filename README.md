@@ -1,2 +1,1 @@
-# SUBAA-ACCENTURE-DATATHON
-SUBAA Accenture Datathon
+Accenture x SUBAA – NovaCorp People Analytics Challenge
